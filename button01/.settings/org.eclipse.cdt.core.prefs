@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/0.1267508101/PATH/delimiter=\:
+environment/project/0.1267508101/PATH/operation=replace
+environment/project/0.1267508101/PATH/value=/home/user/.espressif/tools/xtensa-esp32-elf/esp32-2019r1-8.2.0/xtensa-esp32-elf/bin\:/home/user/.espressif/tools/esp32ulp-elf/2.28.51.20170517/esp32ulp-elf-binutils/bin\:/home/user/.espressif/tools/cmake/3.13.4/bin\:/home/user/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/bin\:/home/user/.espressif/tools/ninja/1.9.0/\:/home/user/.espressif/python_env/idf4.1_py2.7_env/bin\:/home/user/esp/esp-idf/tools\:/home/user/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games
+environment/project/0.1267508101/append=true
+environment/project/0.1267508101/appendContributed=true
